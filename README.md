@@ -11,7 +11,7 @@
 
 <p align="left">
   <a href="https://x.com/Manan_tx_007" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/x-logo.png" alt="X"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/X_logo_2023.svg" alt="X" width="48" height="48"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mananj27/" target="_blank">
