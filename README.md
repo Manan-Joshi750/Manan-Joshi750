@@ -1,7 +1,7 @@
 # Hi there, I'm Manan Joshi! 👋  
 
 💡 **IT Enthusiast | Problem Solver | Web Developer**  
-🔢 Strong in **DSA & C++**, with a logical and mathematical approach to problem-solving.  
+🔢 Passionate about **DSA and C++**, combining strong problem-solving skills with a deep understanding of mathematical concepts and algorithmic thinking for optimal solutions.  
 🧑‍💻 Passionate about **OOP & MERN Stack Development**, currently exploring **Next.js** for scalable applications.  
 
 ---
@@ -11,7 +11,7 @@
 
 <p align="left">
   <a href="https://x.com/Manan_tx_007" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/x.png" alt="X"/>
+    <img src="https://img.icons8.com/color/48/000000/x-logo.png" alt="X"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mananj27/" target="_blank">
