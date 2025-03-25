@@ -1,7 +1,7 @@
 # Hi there, I'm Manan Joshi! 👋  
 
 💡 **IT Enthusiast | Problem Solver | Web Developer**  
-🔢 Passionate about **DSA and C++**, combining strong problem-solving skills with a deep understanding of mathematical concepts and algorithmic thinking for optimal solutions.  
+🔢 Focused on **DSA and C++**, combining problem-solving skills with a deep understanding of mathematical concepts and algorithmic thinking for optimal solutions.    
 🧑‍💻 Passionate about **OOP & MERN Stack Development**, currently exploring **Next.js** for scalable applications.  
 
 ---
