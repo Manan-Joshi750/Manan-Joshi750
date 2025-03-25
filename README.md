@@ -7,6 +7,8 @@
 ---
 
 ## 📬 Connect With Me  
+📧 **Email:** [joshimanan265@gmail.com](mailto:joshimanan265@gmail.com)
+
 <a href="https://x.com/Manan_tx_007" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
