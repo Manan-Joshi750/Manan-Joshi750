@@ -9,34 +9,65 @@
 ## 📬 Connect With Me  
 📧 **Email:** [joshimanan265@gmail.com](mailto:joshimanan265@gmail.com)
 
-<a href="https://x.com/Manan_tx_007" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mananj27/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<p align="left">
+  <a href="https://x.com/Manan_tx_007" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mananj27/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
-### **Languages**  
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+## 🚀 Languages  
+<p align="left">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  </a>
+</p>
 
 ---
 
-### **Frameworks & Tools**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+## 🚀 Frameworks & Tools  
+<p align="left">
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman"/>
+  </a>
+</p>
 
 ---
 
