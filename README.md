@@ -23,11 +23,11 @@
 
 ## 🚀 Languages  
 <p align="left">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+  <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://isocpp.org/" target="_blank">
+  <a href="https://cplusplus.com/doc/tutorial/classes/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
   </a>
   &nbsp;&nbsp;
