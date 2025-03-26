@@ -100,7 +100,7 @@
 ---
 
 ## 📈 GitHub Stats  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Manan-Joshi750&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manan-Joshi750&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manan-Joshi750&show_icons=true&theme=radical)  
 
 ---
