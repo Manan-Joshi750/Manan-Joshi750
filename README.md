@@ -19,8 +19,8 @@
   <a href="https://www.linkedin.com/in/mananj27/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/joshi_manan_27/" target="_blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram" height="40" width="40" />
+  <a href="https://www.instagram.com/joshi_manan_27/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" alt="Instagram" height="40" width="40" />
   </a>
 </p>
 
