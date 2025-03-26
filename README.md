@@ -13,9 +13,8 @@
   <a href="https://x.com/Manan_tx_007" target="blank">
     <img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1726590988~exp=1726591588~hmac=05917c81aad1f3bf834d19114f24881e8338a2f3595ad7686dd9710d742b4aae" alt="X" height="30" width="40" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mananj27/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/mananj27/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
