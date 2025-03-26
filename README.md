@@ -10,7 +10,7 @@
 ---
 
 ## 📬 Connect With Me  
-📧 **Email :** [joshimanan265@gmail.com](mailto:joshimanan265@gmail.com)
+📫 <strong>Reach me at</strong> <a href="mailto:joshimanan265@gmail.com"><strong>joshimanan265@gmail.com</strong></a>
 
 <p align="left">
   <a href="https://x.com/Manan_tx_007" target="blank">
@@ -18,6 +18,9 @@
   </a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mananj27/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/joshi_manan_27/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
@@ -39,6 +42,14 @@
   &nbsp;&nbsp;
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
   </a>
 </p>
 
