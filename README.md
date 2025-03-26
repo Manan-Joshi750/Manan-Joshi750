@@ -20,7 +20,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/joshi_manan_27/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/ios/50/000000/instagram-new.png" alt="Instagram" height="40" width="40" />
   </a>
 </p>
 
