@@ -8,11 +8,11 @@
 </p>  
 
 - 💡 I love **untangling complex equations** and applying **math-driven logic** to problem-solving
-- 
+ 
 - 💬 Ask me about **C++, DSA, OOPS, React, Express**
 
 - 📫 <strong>Reach me at</strong> <a href="mailto:joshimanan265@gmail.com"><strong>joshimanan265@gmail.com</strong></a>
-- 
+ 
 - 🎬 Fun fact : I have a **knack for numbers & logic**, but I also enjoy the **horror genre**, from movies to series!    
 
 ---
