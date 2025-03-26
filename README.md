@@ -1,16 +1,27 @@
 <h1 align="center">Hey there, I'm Manan Joshi! 👋</h1>  
-<h3 align="center">🚀 IT Enthusiast | Problem Solver | Web Developer</h3>  
+<h3 align="center">🚀 IT Enthusiast | Problem Solver | Web Developer | Currently Learning Full-Stack Development</h3>  
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mananjoshi99&label=Profile%20views&color=0e75b6&style=flat" alt="mananjoshi99" /> 
+</p>
 
 <p align="center">
   🔢 <strong>Mastering DSA & C++</strong> — Combining logical reasoning with mathematical depth to craft optimal solutions.  
   <br>  
-  🧑‍💻 <strong>OOP & MERN Stack Developer</strong> — Building scalable applications and currently diving into <span style="color: #0E9CF7;"><strong>Next.js</strong></span>.  
+  🧑‍💻 <strong>Passionate about the OOP paradigm and its ability to model real-world interactions.</strong> Currently diving deeper into <strong>Next.js</strong>.  
 </p>  
+
+- 💡 I love **untangling complex equations** and applying **math-driven logic** to problem-solving
+- 
+- 💬 Ask me about **C++, DSA, OOPS, React, Express**
+
+- 📫 <strong>Reach me at</strong> <a href="mailto:joshimanan265@gmail.com"><strong>joshimanan265@gmail.com</strong></a>
+- 
+- 🎬 Fun fact : I have a **knack for numbers & logic**, but I also enjoy the **horror genre**, from movies to series!    
 
 ---
 
 ## 📬 Connect With Me  
-📫 <strong>Reach me at</strong> <a href="mailto:joshimanan265@gmail.com"><strong>joshimanan265@gmail.com</strong></a>
 
 <p align="left">
   <a href="https://x.com/Manan_tx_007" target="blank">
