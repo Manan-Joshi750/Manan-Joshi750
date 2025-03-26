@@ -1,10 +1,6 @@
 <h1 align="center">Hey there, I'm Manan Joshi! 👋</h1>  
 <h3 align="center">🚀 IT Enthusiast | Problem Solver | Web Developer | Currently Learning Full-Stack Development</h3>  
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mananjoshi99&label=Profile%20views&color=0e75b6&style=flat" alt="mananjoshi99" /> 
-</p>
-
 <p align="center">
   🔢 <strong>Mastering DSA & C++</strong> — Combining logical reasoning with mathematical depth to craft optimal solutions.  
   <br>  
@@ -21,7 +17,7 @@
 
 ---
 
-## 📬 Connect With Me  
+## Connect With Me  
 
 <p align="left">
   <a href="https://x.com/Manan_tx_007" target="blank">
