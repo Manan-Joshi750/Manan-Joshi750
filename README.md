@@ -87,10 +87,12 @@
 ---
 
 ## 📌 Featured Repositories  
-🚀 Check out some of my highlighted projects:  
+🚀 Check out some of my highlighted projects :  
 - [🔗 **Code Through DSA**](https://github.com/Manan-Joshi750/Code_Through_DSA_CPP) - A structured repository covering essential **DSA concepts in C++**.  
 - [🔗 **Get Me A Chai**](https://github.com/Manan-Joshi750/Get_Me_A_Chai) - A **Patreon-like membership platform** built with **MERN & Next.js**, enabling creators to offer exclusive content and manage subscriptions.  
-- [🔗 **MindEase**](https://github.com/Manan-Joshi750/MindEase) - A **mental well-being platform**, helping users manage stress and improve focus.  
+- [🔗 **MindEase**](https://github.com/Manan-Joshi750/MindEase) - A **mental well-being platform**, helping users manage stress and improve focus.
+- [🔗 **Talk-a-tive**](https://github.com/Manan-Joshi750/Talk-a-tive__A_Chatting_Application) - A **real-time chatting application** powered by **MERN stack & Socket.io**, supporting one-to-one and group conversations.  
+- [🔗 **Career-Connect**](https://github.com/Manan-Joshi750/Job_Portal_Application) - A **job posting and hiring platform** developed using **MERN**, enabling users to post, search, and apply for jobs seamlessly.
 
 ---
 
