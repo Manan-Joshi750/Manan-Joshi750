@@ -21,17 +21,21 @@
 
 <p align="left">
   <a href="https://x.com/Manan_tx_007" target="blank">
-    <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1726590988~exp=1726591588~hmac=05917c81aad1f3bf834d19114f24881e8338a2f3595ad7686dd9710d742b4aae" alt="X" height="40" width="40" style="margin-right: 15px;" />
+    <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1726590988~exp=1726591588~hmac=05917c81aad1f3bf834d19114f24881e8338a2f3595ad7686dd9710d742b4aae" alt="X" height="40" width="40" style="margin-right: 20px;" />
   </a>
+  
   <a href="https://www.linkedin.com/in/mananj27/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="margin-right: 15px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="margin-right: 20px;" />
   </a>
+  
   <a href="https://www.instagram.com/joshi_manan_27/" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" alt="Instagram" height="40" width="40" style="margin-right: 15px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" alt="Instagram" height="40" width="40" style="margin-right: 20px;" />
   </a>
+  
   <a href="https://wa.me/6283453432" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="48" width="48" style="margin-right: 15px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="48" width="48" style="margin-right: 20px;" />
   </a>
+  
   <a href="https://t.me/Manan_Joshi_027" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="40" width="40" />
   </a>
