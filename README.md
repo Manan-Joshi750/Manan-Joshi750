@@ -29,6 +29,12 @@
   <a href="https://www.instagram.com/joshi_manan_27/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" alt="Instagram" height="40" width="40" />
   </a>
+  <a href="https://wa.me/6283453432" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="40" width="40" />
+  </a>
+  <a href="https://t.me/Manan_Joshi_027" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="40" width="40" />
+  </a>
 </p>
 
 ---
