@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Manan Joshi! 👋</h1>  
-<h3 align="center">🚀 IT Enthusiast | Problem Solver | Full-Stack Learner | Passionate about Modern Web Technologies</h3>    
+<h3 align="center">🚀 IT Enthusiast | Problem Solver | Curious About Modern Web Technologies</h3>    
 
 <p align="center">
   🔢 <strong>Mastering DSA & C++</strong> — Combining logical reasoning with mathematical depth to craft optimal solutions.  
