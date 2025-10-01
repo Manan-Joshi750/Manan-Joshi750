@@ -4,7 +4,7 @@
 <p align="center">
   🔢 <strong>Mastering DSA & C++</strong> — Combining logical reasoning with mathematical depth to craft optimal solutions.  
   <br>  
-  🧑‍💻 **Passionate about the OOP paradigm and its ability to model real-world interactions**. Constantly seeking opportunities to implement my skills in full-stack projects, eager to leverage modern frameworks like **MERN** and **Next.js** to build dynamic and robust applications.  
+  🧑‍💻 <strong>Passionate about the OOP paradigm and its ability to model real-world interactions</strong>. Constantly seeking opportunities to implement my skills in full-stack projects, eager to leverage modern frameworks like <strong>MERN</strong> and <strong>Next.js</strong> to build dynamic and robust applications.  
 </p>  
 
 - 💡 I love **untangling complex equations** and applying **math-driven logic** to problem-solving
