@@ -1,10 +1,10 @@
 <h1 align="center">Hey there, I'm Manan Joshi! 👋</h1>  
-<h3 align="center">🚀 IT Enthusiast | Problem Solver | Web Developer | Currently Learning Full-Stack Development</h3>  
+<h3 align="center">🚀 IT Enthusiast | Problem Solver | Full-Stack Learner | Passionate about Modern Web Technologies</h3>    
 
 <p align="center">
   🔢 <strong>Mastering DSA & C++</strong> — Combining logical reasoning with mathematical depth to craft optimal solutions.  
   <br>  
-  🧑‍💻 <strong>Passionate about the OOP paradigm and its ability to model real-world interactions.</strong> Currently diving deeper into <strong>Next.js</strong>.  
+  🧑‍💻 **Passionate about the OOP paradigm and its ability to model real-world interactions**. Constantly seeking opportunities to implement my skills in full-stack projects, eager to leverage modern frameworks like **MERN** and **Next.js** to build dynamic and robust applications.  
 </p>  
 
 - 💡 I love **untangling complex equations** and applying **math-driven logic** to problem-solving
