@@ -117,7 +117,7 @@
 
 ## 📈 GitHub Stats  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Manan-Joshi750&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manan-Joshi750&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Manan-Joshi750&show_icons=true&theme=radical&hide_border=true&border_radius=12)  
 
 ---
 
