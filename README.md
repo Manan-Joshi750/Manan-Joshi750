@@ -111,7 +111,7 @@
 ---
 
 ## 📊 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Manan-Joshi750&layout=compact&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Manan-Joshi750&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)  
 
 ---
 
