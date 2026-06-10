@@ -28,7 +28,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="margin-right: 20px;" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/joshi_manan_27/" target="blank">
+  <a href="https://www.instagram.com/its.mj027/" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" alt="Instagram" height="40" width="40" style="margin-right: 20px;" />
   </a>
   &nbsp;&nbsp;
