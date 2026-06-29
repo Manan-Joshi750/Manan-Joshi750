@@ -100,7 +100,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   </a> &nbsp;&nbsp;
   <a href="https://www.sas.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" alt="SAS" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" alt="SAS" width="40" height="43"/>
   </a>
 </p>
 
