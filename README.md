@@ -70,7 +70,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
+    <img src="https://img.icons8.com/color/48/000000/database.png" alt="SQL"/>
   </a>
 </p>
 
@@ -100,7 +100,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   </a> &nbsp;&nbsp;
   <a href="https://www.sas.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" alt="SAS" height="48"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" alt="SAS" width="40" height="40"/>
   </a>
 </p>
 
