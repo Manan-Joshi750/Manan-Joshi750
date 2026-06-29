@@ -68,10 +68,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-  </a>
 </p>
 
 ---
