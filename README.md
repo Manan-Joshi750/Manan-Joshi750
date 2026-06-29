@@ -28,8 +28,8 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="margin-right: 20px;" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/its.mj027/ target="blank">
-    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="40" height="40" style="margin-right: 20px;"/>
+  <a href="https://www.instagram.com/its.mj027/" target="blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40" style="margin-right: 20px;" />
   </a>
   &nbsp;&nbsp;
   <a href="https://wa.me/6283453432" target="blank">
