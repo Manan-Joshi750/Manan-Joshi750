@@ -102,6 +102,20 @@
 
 ---
 
+## 📌 Featured Projects & Live Deployments
+
+| Project & Source Code | Description | Tech Stack | Live Demo |
+| :---: | :---: | :---: | :---: |
+| 🛡️ **[Aegis](https://github.com/Manan-Joshi750/Aegis-Productivity-Engine)** | Autonomous **AI productivity engine** to combat task paralysis using mathematical urgency routing. | MERN, Google Gemini | [🔗 View App](https://basic-express-server-721952227401.asia-southeast1.run.app) |
+| 📈 **[FinTrack](https://github.com/Manan-Joshi750/Finance_Management-Minor-Project)** | Predictive finance dashboard featuring **interactive budget tracking** and **algorithmic expense forecasting**. | MERN | [🔗 View App](https://fintrack-sigma-pied.vercel.app) |
+| 💬 **[Talk-a-tive](https://github.com/Manan-Joshi750/Talk-a-tive__A_Chatting_Application)** | **Real-time chatting application** supporting seamless one-to-one and group conversations. | MERN, Socket.io | [🔗 View App](https://talk-a-tive-a-chatting-application.onrender.com) |
+| 🧠 **[MindEase](https://github.com/Manan-Joshi750/MindEase)** | Mental well-being platform helping users **manage stress** and improve focus through AI. | MERN | [🔗 View App](https://mind-ease-dun.vercel.app) |
+| ☕ **[Get Me A Chai](https://github.com/Manan-Joshi750/Get_Me_A_Chai)** | **Patreon-like** membership platform enabling creators to offer exclusive content and manage subscriptions. | MERN, Next.js | N/A |
+| 🤝 **[Career-Connect](https://github.com/Manan-Joshi750/Job_Portal_Application)** | **Job posting and hiring** platform for seamless listing, searching, and applying. | MERN | N/A |
+| 💻 **[Code Through DSA](https://github.com/Manan-Joshi750/Code_Through_DSA_CPP)** | A comprehensive **C++** repository documenting my complete DSA learning journey, core concepts, and essential **DSA concepts in C++**. | C++ | N/A |
+
+---
+
 ## 🏆 Algorithmic Problem Solving
 
 > **Guardian @LeetCode (2200+) |• Specialist @Codeforces (1400+) |• 4★ @CodeChef (1800+) |• Institute Rank 2 @GFG**
@@ -117,20 +131,6 @@
 
 ---
 
-## 📌 Featured Projects & Live Deployments
-
-| Project & Source Code | Description | Tech Stack | Live Demo |
-| :---: | :---: | :---: | :---: |
-| 🛡️ **[Aegis](https://github.com/Manan-Joshi750/Aegis-Productivity-Engine)** | Autonomous **AI productivity engine** to combat task paralysis using mathematical urgency routing. | MERN, Google Gemini | [🔗 View App](https://basic-express-server-721952227401.asia-southeast1.run.app) |
-| 📈 **[FinTrack](https://github.com/Manan-Joshi750/Finance_Management-Minor-Project)** | Predictive finance dashboard featuring **interactive budget tracking** and **algorithmic expense forecasting**. | MERN | [🔗 View App](https://fintrack-sigma-pied.vercel.app) |
-| 💬 **[Talk-a-tive](https://github.com/Manan-Joshi750/Talk-a-tive__A_Chatting_Application)** | **Real-time chatting application** supporting seamless one-to-one and group conversations. | MERN, Socket.io | [🔗 View App](https://talk-a-tive-a-chatting-application.onrender.com) |
-| 🧠 **[MindEase](https://github.com/Manan-Joshi750/MindEase)** | Mental well-being platform helping users **manage stress** and improve focus through AI. | MERN | [🔗 View App](https://mind-ease-dun.vercel.app) |
-| ☕ **[Get Me A Chai](https://github.com/Manan-Joshi750/Get_Me_A_Chai)** | **Patreon-like** membership platform enabling creators to offer exclusive content and manage subscriptions. | MERN, Next.js | N/A |
-| 🤝 **[Career-Connect](https://github.com/Manan-Joshi750/Job_Portal_Application)** | **Job posting and hiring** platform for seamless listing, searching, and applying. | MERN | N/A |
-| 💻 **[Code Through DSA](https://github.com/Manan-Joshi750/Code_Through_DSA_CPP)** | A comprehensive **C++** repository documenting my complete DSA learning journey, core concepts, and essential **DSA concepts in C++**. | C++ | N/A |
-
----
-
 ## 📊 Most Used Languages  
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Manan-Joshi750&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)  
 
@@ -139,7 +139,9 @@
 ## 📈 GitHub Stats  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Manan-Joshi750&theme=dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Manan-Joshi750&show_icons=true&theme=radical&hide_border=true&border_radius=12)  
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manan-Joshi750&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Manan's GitHub Stats" />
+</div>
 ---
 
 **Turning ideas into reality with code and creativity!** 🚀
