@@ -104,7 +104,7 @@
 
 ## 🏆 Competitive Programming & Achievements
 <div align="center">
-  <strong>Guardian @LeetCode (2200+) |• Specialist @Codeforces (1400+) |• 4★ @CodeChef (1800+) |• Institute Rank 2 @GFG</strong>
+  <h3><b>Guardian @LeetCode (2200+) |• Specialist @Codeforces (1400+) |• 4★ @CodeChef (1800+) |• Institute Rank 2 @GFG</b></h3>
 </div>
 <br>
 
@@ -115,9 +115,14 @@
 
 <br>
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/MJ_LeetSniper027?theme=dark&font=Syne&ext=heatmap" alt="LeetCode Stats" height="200" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://geeks-for-geeks-stats-api.vercel.app/?username=codemonk27&theme=dark" alt="GeeksforGeeks Stats" height="200" />
+  <img src="https://leetcard.jacoblin.cool/MJ_LeetSniper027?theme=dark&font=Syne&ext=heatmap" width="700" alt="LeetCode Stats" />
+</div>
+<br>
+
+<div align="center">
+  <a href="https://auth.geeksforgeeks.org/user/codemonk27/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-500%2B_Days_Streak-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" width="400" alt="GeeksforGeeks Streak" />
+  </a>
 </div>
 
 ---
@@ -125,7 +130,7 @@
 ## 📌 Featured Projects & Live Deployments
 
 | Project & Source Code | Description | Tech Stack | Live Demo |
-| :--- | :--- | :--- | :--- |
+| :---: | :--- | :---: | :---: |
 | 🛡️ **[Aegis](https://github.com/Manan-Joshi750/Aegis-Productivity-Engine)** | Autonomous **AI productivity engine** to combat task paralysis using mathematical urgency routing. | MERN, Google Gemini | [🔗 View App](https://basic-express-server-721952227401.asia-southeast1.run.app) |
 | 📈 **[FinTrack](https://github.com/Manan-Joshi750/Finance_Management-Minor-Project)** | Predictive finance dashboard featuring **interactive budget tracking** and **algorithmic expense forecasting**. | MERN | [🔗 View App](https://fintrack-sigma-pied.vercel.app) |
 | 💬 **[Talk-a-tive](https://github.com/Manan-Joshi750/Talk-a-tive__A_Chatting_Application)** | **Real-time chatting application** supporting seamless one-to-one and group conversations. | MERN, Socket.io | [🔗 View App](https://talk-a-tive-a-chatting-application.onrender.com) |
