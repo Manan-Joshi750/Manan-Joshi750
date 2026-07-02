@@ -130,7 +130,7 @@
 ## 📌 Featured Projects & Live Deployments
 
 | Project & Source Code | Description | Tech Stack | Live Demo |
-| :---: | :--- | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | 🛡️ **[Aegis](https://github.com/Manan-Joshi750/Aegis-Productivity-Engine)** | Autonomous **AI productivity engine** to combat task paralysis using mathematical urgency routing. | MERN, Google Gemini | [🔗 View App](https://basic-express-server-721952227401.asia-southeast1.run.app) |
 | 📈 **[FinTrack](https://github.com/Manan-Joshi750/Finance_Management-Minor-Project)** | Predictive finance dashboard featuring **interactive budget tracking** and **algorithmic expense forecasting**. | MERN | [🔗 View App](https://fintrack-sigma-pied.vercel.app) |
 | 💬 **[Talk-a-tive](https://github.com/Manan-Joshi750/Talk-a-tive__A_Chatting_Application)** | **Real-time chatting application** supporting seamless one-to-one and group conversations. | MERN, Socket.io | [🔗 View App](https://talk-a-tive-a-chatting-application.onrender.com) |
