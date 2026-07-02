@@ -116,21 +116,6 @@
 
 ---
 
-## 🏆 Algorithmic Problem Solving
-
-> **Guardian @LeetCode (2200+) |• Specialist @Codeforces (1400+) |• 4★ @CodeChef (1800+) |• Institute Rank 2 @GFG**
-> 
-> 🏆 **Semi-Finalist** — Flipkart GRID 7.0 & Google Big Code 2026  
-> 🔥 **500+ Days** — Problem-Solving Streak on LeetCode & GFG
-
-<br>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/MJ_LeetSniper027?theme=dark&font=Syne&ext=heatmap" width="700" alt="LeetCode Stats" />
-</div>
-
----
-
 ## 📊 Most Used Languages  
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Manan-Joshi750&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)  
 
