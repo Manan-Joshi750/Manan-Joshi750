@@ -103,25 +103,26 @@
 ---
 
 ## 🏆 Competitive Programming & Achievements
+
 <div align="center">
   <h3><b>Guardian @LeetCode (2200+) |• Specialist @Codeforces (1400+) |• 4★ @CodeChef (1800+) |• Institute Rank 2 @GFG</b></h3>
 </div>
 <br>
 
-- 🏆 **Semi-Finalist** — Flipkart GRID 7.0
-- 🏆 **Semi-Finalist** — Google Big Code 2026
-- 🔥 **700+ Days** — Problem-Solving Streak on LeetCode
-- 🔥 **500+ Days** — Problem-Solving Streak on GFG
+* 🏆 **Semi-Finalist** — Flipkart GRID 7.0
+* 🏆 **Semi-Finalist** — Google Big Code 2026
+* 🔥 **700+ Days** — Problem-Solving Streak on LeetCode
+* 🔥 **500+ Days** — Problem-Solving Streak on GFG
 
-<br>
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/MJ_LeetSniper027?theme=dark&font=Syne&ext=heatmap" width="700" alt="LeetCode Stats" />
-</div>
 <br>
 
 <div align="center">
+  <a href="https://leetcode.com/MJ_LeetSniper027/">
+    <img src="https://leetcard.jacoblin.cool/MJ_LeetSniper027?theme=dark&font=Syne&ext=heatmap" width="47%" alt="LeetCode Stats" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/codemonk27/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-500%2B_Days_Streak-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" width="400" alt="GeeksforGeeks Streak" />
+    <img src="https://geeks-for-geeks-stats-api.vercel.app/?username=codemonk27&theme=dark" width="47%" alt="GeeksforGeeks Stats" />
   </a>
 </div>
 
