@@ -102,15 +102,37 @@
 
 ---
 
-## 📌 Featured Repositories  
-🚀 Check out some of my highlighted projects :  
-- [🔗 **Code Through DSA**](https://github.com/Manan-Joshi750/Code_Through_DSA_CPP) - A structured repository covering essential **DSA concepts in C++**.
-- [🔗 **FinTrack**](https://github.com/Manan-Joshi750/Finance_Management-Minor-Project) - A **predictive personal finance dashboard** built with the **MERN stack**, featuring interactive budget tracking and algorithmic expense forecasting.
-- [🔗 **Aegis**](https://github.com/Manan-Joshi750/Aegis-Productivity-Engine) - An autonomous **AI-powered productivity companion** built with the **MERN** stack and **Google Gemini**, designed to combat task paralysis using mathematical urgency routing and dynamic UI interventions.
-- [🔗 **MindEase**](https://github.com/Manan-Joshi750/MindEase) - A **mental well-being platform**, helping users manage stress and improve focus.
-- [🔗 **Talk-a-tive**](https://github.com/Manan-Joshi750/Talk-a-tive__A_Chatting_Application) - A **real-time chatting application** powered by **MERN stack & Socket.io**, supporting one-to-one and group conversations.
-- [🔗 **Get Me A Chai**](https://github.com/Manan-Joshi750/Get_Me_A_Chai) - A **Patreon-like membership platform** built with **MERN & Next.js**, enabling creators to offer exclusive content and manage subscriptions.
-- [🔗 **Career-Connect**](https://github.com/Manan-Joshi750/Job_Portal_Application) - A **job posting and hiring platform** developed using **MERN**, enabling users to post, search, and apply for jobs seamlessly.
+## 🏆 Competitive Programming & Achievements
+<div align="center">
+  <strong>Guardian @LeetCode (2200+) |• Specialist @Codeforces (1400+) |• 4★ @CodeChef (1800+) |• Institute Rank 2 @GFG</strong>
+</div>
+<br>
+
+- 🏆 **Semi-Finalist** — Flipkart GRID 7.0
+- 🏆 **Semi-Finalist** — Google Big Code 2026
+- 🔥 **700+ Days** — Problem-Solving Streak on LeetCode
+- 🔥 **500+ Days** — Problem-Solving Streak on GFG
+
+<br>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/MJ_LeetSniper027?theme=dark&font=Syne&ext=heatmap" alt="LeetCode Stats" height="200" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://geeks-for-geeks-stats-api.vercel.app/?username=codemonk27&theme=dark" alt="GeeksforGeeks Stats" height="200" />
+</div>
+
+---
+
+## 📌 Featured Projects & Live Deployments
+
+| Project & Source Code | Description | Tech Stack | Live Demo |
+| :--- | :--- | :--- | :--- |
+| 🛡️ **[Aegis](https://github.com/Manan-Joshi750/Aegis-Productivity-Engine)** | Autonomous **AI productivity engine** to combat task paralysis using mathematical urgency routing. | MERN, Google Gemini | [🔗 View App](https://basic-express-server-721952227401.asia-southeast1.run.app) |
+| 📈 **[FinTrack](https://github.com/Manan-Joshi750/Finance_Management-Minor-Project)** | Predictive finance dashboard featuring **interactive budget tracking** and **algorithmic expense forecasting**. | MERN | [🔗 View App](https://fintrack-sigma-pied.vercel.app) |
+| 💬 **[Talk-a-tive](https://github.com/Manan-Joshi750/Talk-a-tive__A_Chatting_Application)** | **Real-time chatting application** supporting seamless one-to-one and group conversations. | MERN, Socket.io | [🔗 View App](https://talk-a-tive-a-chatting-application.onrender.com) |
+| 🧠 **[MindEase](https://github.com/Manan-Joshi750/MindEase)** | Mental well-being platform helping users **manage stress** and improve focus through AI. | MERN | [🔗 View App](https://mind-ease-dun.vercel.app) |
+| ☕ **[Get Me A Chai](https://github.com/Manan-Joshi750/Get_Me_A_Chai)** | **Patreon-like** membership platform enabling creators to offer exclusive content and manage subscriptions. | MERN, Next.js | N/A |
+| 🤝 **[Career-Connect](https://github.com/Manan-Joshi750/Job_Portal_Application)** | **Job posting and hiring** platform for seamless listing, searching, and applying. | MERN | N/A |
+| 💻 **[Code Through DSA](https://github.com/Manan-Joshi750/Code_Through_DSA_CPP)** | A comprehensive **C++** repository documenting my complete DSA learning journey, core concepts, and essential **DSA concepts in C++**. | C++ | N/A |
 
 ---
 
