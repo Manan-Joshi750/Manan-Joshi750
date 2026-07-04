@@ -84,6 +84,9 @@
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a> &nbsp;&nbsp;
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40"/>
+  </a> &nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a> &nbsp;&nbsp;
@@ -109,7 +112,7 @@
     <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40"/>
   </a> &nbsp;&nbsp;
   <a href="https://render.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/render/white" alt="Render" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/render/000000" alt="Render" width="40" height="40"/>
   </a>
 </p>
 
