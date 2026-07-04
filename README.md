@@ -109,7 +109,7 @@
     <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40"/>
   </a> &nbsp;&nbsp;
   <a href="https://render.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=render" alt="Render" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/render/white" alt="Render" width="40" height="40"/>
   </a>
 </p>
 
