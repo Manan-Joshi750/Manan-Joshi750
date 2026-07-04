@@ -103,13 +103,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" alt="SAS" width="40" height="44"/>
   </a> &nbsp;&nbsp;
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
   </a> &nbsp;&nbsp;
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40"/>
   </a> &nbsp;&nbsp;
   <a href="https://render.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/render/000000" alt="Render" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=render" alt="Render" width="40" height="40"/>
   </a>
 </p>
 
