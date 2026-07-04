@@ -57,6 +57,10 @@
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   </a>
   &nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   </a>
@@ -97,6 +101,15 @@
   </a> &nbsp;&nbsp;
   <a href="https://www.sas.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" alt="SAS" width="40" height="44"/>
+  </a> &nbsp;&nbsp;
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a> &nbsp;&nbsp;
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>
+  </a> &nbsp;&nbsp;
+  <a href="https://render.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/render/000000" alt="Render" width="40" height="40"/>
   </a>
 </p>
 
